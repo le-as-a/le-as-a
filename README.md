@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello, [Asia Le](https://le-as-a.github.io/) here! ✨ 
+
+---
+
+### I appreciate you dropping by and looking around. 💖 ![visitors](https://visitor-badge.glitch.me/badge?page_id=le-as-a.visitor-badge)
+
+- 👾 I'm currently working on an app called [Beholder's Bag](https://beholders-bag.herokuapp.com/)
+- ♀️ My pronouns are she/her
+- 🐉 If I'm not coding, I'm probably playing Dungeons and Dragons, 5th edition.
+
+---
+![Asia's GitHub stats](https://github-readme-stats.vercel.app/api?username=le-as-a&show_icons=true&theme=tokyonight)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asia-le-073860103/) [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/asia-le-1)
+
 
 <!--
 **le-as-a/le-as-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
