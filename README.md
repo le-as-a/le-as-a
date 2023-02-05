@@ -6,7 +6,7 @@
 
 - 👾 I'm currently working on an app called Knucklebones
 - ♀️ My pronouns are she/her
-- 🐉 If I'm not coding, I'm probably playing Dungeons and Dragons, 5th edition.
+- 🐉 If I'm not coding, I'm probably buildin a fun world and a cool story with friends!
 
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=le-as-a)](https://github.com/le-as-a/github-readme-stats)
