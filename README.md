@@ -2,9 +2,9 @@
 
 ---
 
-### I appreciate you dropping by and looking around. 💖 ![visitors](https://visitor-badge.glitch.me/badge?page_id=le-as-a.visitor-badge)
+### I appreciate you dropping by and looking around. 💖 
 
-- 👾 I'm currently working on an app called [InfoDex](https://infodex.vercel.app/)
+- 👾 I'm currently working on an app called Knucklebones
 - ♀️ My pronouns are she/her
 - 🐉 If I'm not coding, I'm probably playing Dungeons and Dragons, 5th edition.
 
