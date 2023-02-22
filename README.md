@@ -4,7 +4,7 @@
 
 ### I appreciate you dropping by and looking around. 💖 
 
-- 👾 I'm currently working on an app called Knucklebones
+- 👾 I'm currently working on an app called Villager Finder
 - ♀️ My pronouns are she/her
 - 🐉 If I'm not coding, I'm probably buildin a fun world and a cool story with friends!
 
