@@ -4,7 +4,7 @@
 
 ### I appreciate you dropping by and looking around. 💖 
 
-- 👾 I'm currently working on an app called Villager Finder
+- 👾 I'm currently working on a personal project with Godot 4
 - ♀️ My pronouns are she/her
 - 🐉 If I'm not coding, I'm probably buildin a fun world and a cool story with friends!
 
