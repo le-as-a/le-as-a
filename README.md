@@ -4,7 +4,9 @@
 
 ### I appreciate you dropping by and looking around. 💖 
 
-- 👾 I'm currently working on a personal project with Godot 4
+- 👾 My current projects:
+-- Exploration game in Godot 4
+-- Writing a system module for Foundry VTT
 - ♀️ My pronouns are she/her
 - 🐉 If I'm not coding, I'm probably buildin a fun world and a cool story with friends!
 
