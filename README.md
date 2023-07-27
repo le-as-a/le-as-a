@@ -10,10 +10,7 @@
 - ♀️ My pronouns are she/her
 - 🐉 If I'm not coding, I'm probably buildin a fun world and a cool story with friends!
 
----
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=le-as-a)](https://github.com/le-as-a/github-readme-stats)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asia-le-073860103/) [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/asia-le-1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asia-le-073860103/) 
 
 
 <!--
