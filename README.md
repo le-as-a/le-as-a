@@ -8,7 +8,7 @@
   - Exploration game in Godot 4
   - Writing a system module for Foundry VTT
 - ♀️ My pronouns are she/her
-- 🐉 If I'm not coding, I'm probably buildin a fun world and a cool story with friends!
+- 🐉 If I'm not coding, I'm probably building a fun world and a cool story with friends!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asia-le-073860103/) 
 
