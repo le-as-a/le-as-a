@@ -5,7 +5,7 @@
 ### I appreciate you dropping by and looking around. 💖 
 
 - 👾 My current projects:
-  - Exploration game in Godot 4
+  - Desktop app to plan out your plots for Palia Online
   - Writing a system module for Foundry VTT
 - ♀️ My pronouns are she/her
 - 🐉 If I'm not coding, I'm probably building a fun world and a cool story with friends!
