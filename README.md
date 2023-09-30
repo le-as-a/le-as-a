@@ -4,9 +4,7 @@
 
 ### I appreciate you dropping by and looking around. 💖 
 
-- 👾 My current projects:
-  - Desktop app to plan out your plots for Palia Online
-  - Writing a system module for Foundry VTT
+- 👾 I'm currently working on a discord fishing app!
 - ♀️ My pronouns are she/her
 - 🐉 If I'm not coding, I'm probably building a fun world and a cool story with friends!
 
