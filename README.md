@@ -4,7 +4,7 @@
 
 ### I appreciate you dropping by and looking around. 💖 
 
-- 👾 I'm currently working Discord TTRPG Bot app
+- 👾 I'm currently working on a Discord TTRPG Bot app
 - ♀️ My pronouns are she/her
 - 🐉 If I'm not coding, I'm probably building a fun world and a cool story with friends!
 
