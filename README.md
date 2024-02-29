@@ -4,9 +4,9 @@
 
 ### I appreciate you dropping by and looking around. 💖 
 
-- 👾 I'm currently working on a Discord TTRPG Bot app
+- 👾 I'm currently working on a Discord Fishing Game Bot
 - ♀️ My pronouns are she/her
-- 🐉 If I'm not coding, I'm probably building a fun world and a cool story with friends!
+- 🐉 Fun Fact: If I'm not coding, I'm probably building a fun world and a cool story with friends!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asia-le-073860103/) 
 
