@@ -4,7 +4,7 @@
 
 ### I appreciate you dropping by and looking around. 💖 
 
-- 👾 I'm currently working on a Discord Fishing Game Bot
+- 👾 I'm currently working on a utility website to help gamers access their characters easier.
 - ♀️ My pronouns are she/her
 - 🐉 Fun Fact: If I'm not coding, I'm probably building a fun world and a cool story with friends!
 
